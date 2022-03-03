@@ -1,0 +1,15 @@
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\bin\Debug\net6.0\prjunittestEg2.exe
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\bin\Debug\net6.0\prjunittestEg2.deps.json
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\bin\Debug\net6.0\prjunittestEg2.runtimeconfig.json
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\bin\Debug\net6.0\prjunittestEg2.dll
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\bin\Debug\net6.0\prjunittestEg2.pdb
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\prjunittestEg2.csproj.AssemblyReference.cache
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\prjunittestEg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\prjunittestEg2.AssemblyInfoInputs.cache
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\prjunittestEg2.AssemblyInfo.cs
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\prjunittestEg2.csproj.CoreCompileInputs.cache
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\prjunittestEg2.dll
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\refint\prjunittestEg2.dll
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\prjunittestEg2.pdb
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\prjunittestEg2.genruntimeconfig.cache
+C:\Users\nalla\OneDrive\Documents\gitdemo\prjunittestEg2\prjunittestEg2\obj\Debug\net6.0\ref\prjunittestEg2.dll
